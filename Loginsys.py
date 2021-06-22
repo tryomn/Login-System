@@ -3,7 +3,7 @@ import os
 
 
 def clear(): return os.system('clear')
-
+clear()
 
 def main():
     clear()
